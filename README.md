@@ -26,8 +26,8 @@ For `color`, please see available color here http://pillow.readthedocs.io/en/4.0
 
 Here'are some examples:
 ```
-http://thumbor/unsafe/filter:text(hello,10,10,red,25)/your-image-url
-http://thumbor/unsafe/filter:text(hello,10,10,red,25,Arial)/your-image-url
+http://thumbor/unsafe/filters:text(hello,10,10,red,25)/your-image-url
+http://thumbor/unsafe/filters:text(hello,10,10,red,25,Arial)/your-image-url
 ```
 
 ---
